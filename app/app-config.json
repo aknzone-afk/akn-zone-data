@@ -2,5 +2,5 @@
   "tutorial_youtube": "",
   "min_build_ios": 0,
   "min_build_android": 0,
-  "live_test": true
+  "live_test": false
 }
