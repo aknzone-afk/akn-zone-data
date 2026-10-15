@@ -1,7 +1,8 @@
 {
-  "tutorial_youtube": "nFZaAH4cBKQ",
+  "tutorial_youtube": "",
   "min_build_ios": 0,
   "min_build_android": 157,
   "live_test": false,
-  "tutorial_start": 199
+  "tutorial_start": 199,
+  "tutorial_youtube_next": "nFZaAH4cBKQ"
 }
