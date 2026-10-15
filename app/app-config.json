@@ -3,6 +3,10 @@
   "min_build_ios": 0,
   "min_build_android": 157,
   "live_test": false,
-  "tutorial_start": 199,
-  "tutorial_youtube_v2": "nFZaAH4cBKQ"
+  "tutorial_start": "3:19",
+  "tutorial_youtube_v2": "nFZaAH4cBKQ",
+  "tutorial_end": "",
+  "signup_youtube": "",
+  "signup_start": "0:00",
+  "signup_end": "3:19"
 }
