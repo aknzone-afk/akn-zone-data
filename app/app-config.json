@@ -1,6 +1,6 @@
 {
   "tutorial_youtube": "",
-  "min_build_ios": 0,
+  "min_build_ios": 164,
   "min_build_android": 165,
   "live_test": false,
   "tutorial_start": "3:19",
